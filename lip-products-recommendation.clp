@@ -1,4 +1,4 @@
-;;; WARDAH ada 16
+	;;; WARDAH ada 16
 
 (defrule Wardah​​ColorfitUltralightMatteLipstickKoreaEdition
 	(brand wardah)
